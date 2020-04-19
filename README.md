@@ -3,20 +3,37 @@
 </h2>
 
 <h5 align="center">
-   O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+  
+  <br><br><br>
+  O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's <br>
+  que estão precisando de ajuda.
+  
 </h5>
 
- | ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screens/01-macbook-be-the-hero-login.png "Tela - login") | ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screens/02-macbook-be-the-hero-cadastro-de-ongs.png "Tela - Cadastro de ONGS") |
- |----------|:---------|
- | ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screens/03-macbook-be-the-hero-home.png "Tela - Home") | ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screens/04-macbook-be-the-hero-cadastro-de-caso.png "Cadastro de caso")|
- 
+<h5 align="center">
+  <br>
+  <br>
+  <br>
+  ──────────────────────────────────  👇🏻 Telas 👇🏻  ──────────────────────────────────   
+</h5>
+
+<p align="center">
+  <img title="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="95%">
+  <br>
+  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%">
+  <br>
+  <img title="Tela - Home" src=".github/03-macbook-be-the-hero-home.png" width="95%">
+  <br>
+  <img title="Tela - Cadasreo de caso" src=".github/04-macbook-be-the-hero-cadastro-de-caso.png" width="95%">
+</p>
 
 ## 💻 Nesse projeto foi utilizado:  
 
  - ReactJS
+ - React Native 
  - NodeJS
  - Express
  - CORS
  - SQLite
- - React Native
+ 
  
