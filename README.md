@@ -7,23 +7,21 @@
 </h5>
 
 <p align="center">
-  <img alt="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="90%">
+  <img title="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="95%">
 </p>
 
 <p align="center">
-  <img alt="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="90%">
+  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%">
 </p>
 
 <p align="center">
-  <img alt="Tela - Home" src=".github/03-macbook-be-the-hero-home.png" width="90%">
+  <img title="Tela - Home" src=".github/03-macbook-be-the-hero-home.png" width="95%">
+  <br>
+  <img title="Tela - Cadasreo de caso" src=".github/04-macbook-be-the-hero-cadastro-de-caso.png" width="95%">
 </p>
 
 <p align="center">
-  <img alt="Tela - Cadasreo de caso" src=".github/04-macbook-be-the-hero-cadastro-de-caso.png" width="90%">
-</p>
-
- ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/.github/04-macbook-be-the-hero-cadastro-de-caso.png "Cadastro de caso")|
- 
+</p> 
 
 ## 💻 Nesse projeto foi utilizado:  
 
