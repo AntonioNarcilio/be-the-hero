@@ -3,15 +3,18 @@
 </h2>
 
 <h6 align="center">
+  
   <br><br><br>
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's que precisam de ajuda.
+  O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's <br>
+  que estão precisando de ajuda.
+  
 </h6>
 
 <h5 align="center">
   <br>
   <br>
   <br>
- ⋅ ────────────────────────────────────  ⊱ Telas ⊰  ──────────────────────────────────── ⋅  
+  ────────────────────────────────────  ⊱ Telas ⊰  ────────────────────────────────────   
 </h5>
 
 <p align="center">
@@ -27,9 +30,10 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 ## 💻 Nesse projeto foi utilizado:  
 
  - ReactJS
+ - React Native 
  - NodeJS
  - Express
  - CORS
  - SQLite
- - React Native
+ 
  
