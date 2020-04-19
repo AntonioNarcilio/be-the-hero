@@ -4,7 +4,7 @@
 
 <h6 align="center">
   <br><br><br>
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's que precisam de ajuda.
 </h6>
 
 <h5 align="center">
