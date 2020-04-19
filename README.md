@@ -8,20 +8,13 @@
 
 <p align="center">
   <img title="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="95%">
-</p>
-
-<p align="center">
-  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%">
-</p>
-
-<p align="center">
+  <br>
+  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%" margin-top="-10%">
+  <br>
   <img title="Tela - Home" src=".github/03-macbook-be-the-hero-home.png" width="95%">
   <br>
   <img title="Tela - Cadasreo de caso" src=".github/04-macbook-be-the-hero-cadastro-de-caso.png" width="95%">
 </p>
-
-<p align="center">
-</p> 
 
 ## 💻 Nesse projeto foi utilizado:  
 
