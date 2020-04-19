@@ -9,7 +9,7 @@
 <p align="center">
   <img title="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="95%">
   <br>
-  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%" margin-top="-10%">
+  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%" margin-top="-50%">
   <br>
   <img title="Tela - Home" src=".github/03-macbook-be-the-hero-home.png" width="95%">
   <br>
