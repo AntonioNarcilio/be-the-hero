@@ -2,14 +2,14 @@
   Projeto criado na 🚀 11º semana omnistack da skylab rocketseat
 </h2>
 
-<h5 align="center">
+<p align="center">
    O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
-</h5>
+</p>
 
 <p align="center">
   <img title="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="95%">
   <br>
-  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%" margin-top="-50%">
+  <img title="Tela - Cadastro ONG" src=".github/02-macbook-be-the-hero-cadastro-de-ongs.png" width="95%">
   <br>
   <img title="Tela - Home" src=".github/03-macbook-be-the-hero-home.png" width="95%">
   <br>
