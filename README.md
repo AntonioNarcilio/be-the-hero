@@ -5,8 +5,9 @@
 <strong align="center">
   
   <br><br><br>
-  O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's <br>
-  que estão precisando de ajuda.
+  O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a
+  <br>
+  ONG's que estão precisando de ajuda.
   
 </strong>
 
