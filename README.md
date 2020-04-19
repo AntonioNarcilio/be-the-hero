@@ -2,19 +2,19 @@
   Projeto criado na 🚀 11º semana omnistack da skylab rocketseat
 </h2>
 
-<h6 align="center">
+<h5 align="center">
   
   <br><br><br>
   O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's <br>
   que estão precisando de ajuda.
   
-</h6>
+</h5>
 
 <h5 align="center">
   <br>
   <br>
   <br>
-  ────────────────────────────────────  ⊱ Telas ⊰  ────────────────────────────────────   
+  ──────────────────────────────────  ⊱ Telas ⊰  ──────────────────────────────────   
 </h5>
 
 <p align="center">
