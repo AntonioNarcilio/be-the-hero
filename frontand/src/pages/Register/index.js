@@ -63,7 +63,7 @@ export default function Register() {
               precise carregar todo o react do zero */}
           <Link className="back-link" to="/">
             <FiArrowLeft size={16} color="#E02041" />
-            Não Tenho Cadastro
+            Já Tenho Cadastro
           </Link>
         </section>
 
