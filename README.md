@@ -2,16 +2,16 @@
   Projeto criado na 🚀 11º semana omnistack da skylab rocketseat
 </h2>
 
-<h3 align="center">
+<h5 align="center">
    O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
-</h3>
+</h5>
 
  ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screenshoot/1-BeTheHero_Login.png "Tela - login")
  ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screenshoot/2-BeTheHero_CadastroDeONGS.png "Tela - Cadastro de ONGS")
  ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screenshoot/3-BeTheHero_Home.png "Tela - Home")
  ![alt text](https://github.com/AntonioNarcilio/semana-omnistack-11-be-the-hero/blob/master/screenshoot/4-BeTheHero_CadastroDeCaso.png "Cadastro de caso")
  
-## 💻 Projeto
+### 💻 Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
