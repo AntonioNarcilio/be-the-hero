@@ -6,8 +6,9 @@
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 </h6>
 
-#### _______________________________________________________________________
-
+<h6 align="center">
+  _______________________________________________________________________
+</h6>
 
 <p align="center">
   <img title="Tela - Login" src=".github/01-macbook-be-the-hero-login.png" width="95%">
