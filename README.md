@@ -1,5 +1,5 @@
 <h2 align="center">
-  Projeto criado na 🚀 11º semana omnistack da skylab rocketseat
+  Projeto criado na 🚀&ensp; 11º semana omnistack da skylab rocketseat
 </h2>
 
 <strong align="center">
@@ -16,26 +16,24 @@
   <br>
   <br>
   <br>
-  ────────────────────────────────  👇🏻 Telas - Desktop 🖥️  ────────────────────────────────   
+  ────────────────────────────────  👇🏻 &ensp;Telas - Desktop&ensp; 🖥️  ────────────────────────────────   
 </h5>
 
 <p align="center">
-  <img title="Tela - Login" src=".github/01-be-the-hero-login.jpg" width="95%">
+  <img title="Tela - Login" src=".github/01-be-the-hero-login.png" width="95%">
   <br>
-  <img title="Tela - Cadastro ONG" src=".github/02-be-the-hero-cadastro-ongs.jpg" width="95%">
+  <img title="Tela - Cadastro ONG" src=".github/02-be-the-hero-cadastro-ongs.png" width="95%">
   <br>
-  <img title="Tela - Home" src=".github/03-be-the-hero-home.jpg" width="95%">
+  <img title="Tela - Home" src=".github/03-be-the-hero-home.png" width="95%">
   <br>
-  <img title="Tela - Cadasreo de caso" src=".github/04-be-the-hero-cadastro-caso.jpg" width="95%">
+  <img title="Tela - Cadasreo de caso" src=".github/04-be-the-hero-cadastro-caso.png" width="95%">
 </p>
 
-## 💻 Nesse projeto foi utilizado:  
+## 💻&ensp; Tecnologias:
+> As tecnologias utilizadas no desenvolvimento desse projeto foram:
 
- - ReactJS
- - React Native 
- - NodeJS
- - Express
- - CORS
- - SQLite
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/) #ProjetoFaltando
  
  
